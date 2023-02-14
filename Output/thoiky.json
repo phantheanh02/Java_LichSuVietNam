@@ -1,0 +1,169 @@
+[ {
+  "idThoiKy" : 1,
+  "tenThoiKy" : "Thời tiền sử",
+  "thoiGianBatDau" : null,
+  "thoiGianKetThuc" : null,
+  "moTa" : "- Thời đồ đá cũ: con người đã xuất hiện ở Việt Nam khoảng 10.000 - 30.000 năm trước với các dấu tích của nền văn hóa Núi Đọ, Thần Sa, Sơn Vi. <br> - Thời đồ đá mới: tiêu biểu với nền văn hóa Hòa Bình, Bắc Sơn khoảng 6.000 - 10.000 năm trước. <br> - Thời đại kim khí: cách đây khoảng 4.000 năm.",
+  "hinhAnh" : [ ]
+}, {
+  "idThoiKy" : 2,
+  "tenThoiKy" : "Thời kỳ dựng nước",
+  "thoiGianBatDau" : "2000 ",
+  "thoiGianKetThuc" : " 258 trCN",
+  "moTa" : "Kinh Dương Vương là Thủy tổ của dân tộc Việt Nam có con Lạc Long Quân lấy Âu Cơ sinh ra một bọc một trăm trứng nở ra một trăm người con trai là tổ tiên của người Bách Việt. Con trưởng làm Hùng Vương nối ngôi. Nước <b><i>Văn Lang</i></b> kéo dài gần 2000 năm, trải qua 18 đời vua Hùng, đóng đô ở Phong Châu.",
+  "hinhAnh" : [ ]
+}, {
+  "idThoiKy" : 3,
+  "tenThoiKy" : "Nhà Thục",
+  "thoiGianBatDau" : "257",
+  "thoiGianKetThuc" : " 208 trCN",
+  "moTa" : "Thục Phán hợp nhất Âu Việt với Văn Lang lập nên nhà Thục, lấy quốc hiệu là <b><i>Âu Lạc</i></b>, đóng đô ở Cổ Loa, xưng là An Dương Vương.",
+  "hinhAnh" : [ ]
+}, {
+  "idThoiKy" : 4,
+  "tenThoiKy" : "Thời kỳ phong kiến phương Bắc đô hộ lần thứ nhất",
+  "thoiGianBatDau" : "207 trCN ",
+  "thoiGianKetThuc" : " 39",
+  "moTa" : "Nhà Triệu (207 - 111 trCN) chiếm Âu Lạc rồi đổi tên nước thành Nam Việt. Nhà Hán (111 trCN - 39) chiếm Nam Việt rồi đổi thành Giao Chỉ bộ.",
+  "hinhAnh" : [ ]
+}, {
+  "idThoiKy" : 5,
+  "tenThoiKy" : "Trưng Nữ Vương",
+  "thoiGianBatDau" : "40",
+  "thoiGianKetThuc" : "43",
+  "moTa" : "Trưng Trắc đánh đuổi quân Hán, lên ngôi vua đóng đô tại Mê Linh.",
+  "hinhAnh" : [ ]
+}, {
+  "idThoiKy" : 6,
+  "tenThoiKy" : "Thời kỳ phong kiến phương Bắc đô hộ lần thứ hai",
+  "thoiGianBatDau" : "43",
+  "thoiGianKetThuc" : "542",
+  "moTa" : "Trải qua các triều sau: Đông Hán, Đông Ngô, Tây Tấn, Lương. Nổi bật nhất là cuộc khởi nghĩa của Bà Triệu (248) và Lý Bôn (542)",
+  "hinhAnh" : [ ]
+}, {
+  "idThoiKy" : 7,
+  "tenThoiKy" : "Nhà tiền Lý và nhà Triệu",
+  "thoiGianBatDau" : "544",
+  "thoiGianKetThuc" : "602",
+  "moTa" : "Lý Bôn đánh đuổi quân Lương lấy quốc hiệu <b><i>Vạn Xuân</i></b>, đóng đô ở Long Biên<br> 1. Lý Nam Đế (Lý Bôn, 544-548)<br> 2. Lý Đào Lang (Lý Thiên Bảo, 549-555)<br> 3. Triệu Việt Vương (Triệu Quang Phục, 548-571)<br> 4. Hậu Lý Nam Đế (Lý Phật Tử, 571- 602)",
+  "hinhAnh" : [ ]
+}, {
+  "idThoiKy" : 8,
+  "tenThoiKy" : "Thời kỳ phong kiến phương Bắc đô hộ lần thứ ba",
+  "thoiGianBatDau" : "603",
+  "thoiGianKetThuc" : "939",
+  "moTa" : "Lý Phật Tử đầu hàng, nước ta rơi vào tay nhà Tùy (603) rồi sau đó là nhà Đường (618). Các cuộc khởi nghĩa tiêu biểu: Mai Thúc Loan (722), Phùng Hưng (766-791), Dương Thanh (819-820).",
+  "hinhAnh" : [ ]
+}, {
+  "idThoiKy" : 9,
+  "tenThoiKy" : "Thời kỳ xây nền tự chủ",
+  "thoiGianBatDau" : "905 ",
+  "thoiGianKetThuc" : " 938",
+  "moTa" : "Khúc Thừa Dụ đuổi giặc về nước, tự xưng là Tiết độ sứ. Nhà Đường công nhận ông là người đứng đầu đất Việt.<br> 1. Khúc Thừa Dụ (905-907)<br> 2. Khúc Hạo (907-917)<br> 3. Khúc Thừa Mỹ (917-923)<br> 4. Dương Đình Nghệ (931-938)",
+  "hinhAnh" : [ ]
+}, {
+  "idThoiKy" : 10,
+  "tenThoiKy" : "Nhà Ngô",
+  "thoiGianBatDau" : "939",
+  "thoiGianKetThuc" : "965",
+  "moTa" : "Ngô Quyền là con rể Dương Đình Nghệ, giết Kiều Công Tiễn trả thù cho bố vợ, đánh thắng quân Nam Hán, lập ra triều Ngô, đóng đô ở Cổ Loa. Dương Tam Kha cướp ngôi nhà Ngô, các nơi không chịu thuần phục, mỗi thủ lĩnh cát cứ một vùng gọi là \"Loạn 12 sứ quân\".<br> 1. Ngô Vương (Ngô Quyền 939-944)<br> 2. Hậu Ngô Vương (950-965)",
+  "hinhAnh" : [ ]
+}, {
+  "idThoiKy" : 11,
+  "tenThoiKy" : "Nhà Đinh",
+  "thoiGianBatDau" : "968",
+  "thoiGianKetThuc" : "980",
+  "moTa" : "Đinh Bộ Lĩnh dẹp xong loạn 12 sứ quân, lên ngôi Hoàng đế lấy niên hiệu là Tiên Hoàng đế, đặt quốc hiệu là <b><i>Đại Cồ Việt</i></b>, đóng đô ở Hoa Lư. Năm 979, Đinh Tiên Hoàng và và con là Đinh Liễn bị giết chết trong khi uống rượu ngủ say. Đinh Toàn mới 6 tuổi lên ngôi (979-980).",
+  "hinhAnh" : [ ]
+}, {
+  "idThoiKy" : 12,
+  "tenThoiKy" : "Nhà Tiền Lê",
+  "thoiGianBatDau" : "980",
+  "thoiGianKetThuc" : "1009",
+  "moTa" : "Nhà Tống xâm lược nước ta, Lê Hoàn được Thái hậu Dương Vân Nga trao ngôi vua, lấy niên hiệu là Lê Đại Hành, đánh tan quân Tống và chấn hưng đất nước.<br> 1. Lê Đại Hành (Lê Hoàn 980-1005)<br> 2. Lê Trung Tông (Lê Long Việt, 1005)<br> 3. Lê Ngọa Triều (Lê Long Đĩnh, 1005 - 1009)",
+  "hinhAnh" : [ ]
+}, {
+  "idThoiKy" : 13,
+  "tenThoiKy" : "Nhà Lý",
+  "thoiGianBatDau" : "1010",
+  "thoiGianKetThuc" : "1225",
+  "moTa" : "Lê Ngọa Triều mất, triều thần tôn Lý Công Uẩn lên ngôi Hoàng đế. Tháng 7-1010, Lý Công Uẩn dời đô về Thăng Long, năm 1054 lấy quốc hiệu là <b><i>Đại Việt</i></b><br> 1. Lý Thái Tổ (Lý Công Uẩn 1010 – 1028)<br> 2. Lý Thái Tông (Lý Phật Mã 1028 – 1054)<br> 3. Lý Thánh Tông (Lý Nhật Tôn 1054 – 1072)<br> 4. Lý Nhân Tông (Lý Càn Đức 1072 – 1128)<br> 5. Lý Thần Tông (Lý Dương Hoán 1128 - 1138)<br> 6. Lý Anh Tông (Lý Thiên Tộ 1138 - 1175)<br> 7. Lý Cao Tông (Lý Long Cán 1176 - 1210)<br> 8. Lý Huệ Tông (Lý Hạo Sảm 1211 - 1224)<br> 9. Lý Chiêu Hoàng (Phật Kim 1224 - 1225)",
+  "hinhAnh" : [ ]
+}, {
+  "idThoiKy" : 14,
+  "tenThoiKy" : "Nhà Trần",
+  "thoiGianBatDau" : "1225",
+  "thoiGianKetThuc" : "1400",
+  "moTa" : "Năm 1208, Thái tử Sảm (sau thành vua Lý Huệ Tông) chạy loạn về Hải Ấp (Thái Bình) vào ở nhà ông Trần Lý làm nghề đánh cá rồi cưới con gái Trần Lý là Trần Thị Dung. Anh em nhà Trần mộ quân giúp Thái tử Sảm khôi phục kinh đô Thăng Long. Từ đó nhà Trần mà đứng đầu là Trần Thủ Độ dần thao túng quyền lực. Trần Thủ Độ ép Lý Chiêu Hoàng (8 tuổi) lấy và nhường ngôi cho Trần Cảnh, chấm dứt sự tồn tại của nhà Lý trên đà suy vong. Chiến công vẻ vang nhất của nhà Trần là 3 lần đánh thắng quân Nguyên.<br> 1. Trần Thái Tông (Trần Cảnh, 1225 - 1258)<br> 2. Trần Thánh Tông (Trần Hoảng, 1258 - 1278)<br> 3. Trần Nhân Tông (Trần Khâm, 1279-1293)<br> 4. Trần Anh Tông (1293 - 1314)<br> 5. Trần Minh Tông (1314 - 1329)<br> 6. Trần Hiến Tông (1329 - 1341)<br> 7. Trần Dụ Tông (1341 - 1369)<br> 8. Trần Nghệ Tông (1370 - 1372)<br> 9. Trần Duệ Tông (1372-1377)<br> 10. Trần Phế Đế (1377-1388)<br> 11. Trần Thuận Tông (1388-1398)<br> 12. Trần Thiếu Đế (1398-1400)",
+  "hinhAnh" : [ ]
+}, {
+  "idThoiKy" : 15,
+  "tenThoiKy" : "Nhà Hồ",
+  "thoiGianBatDau" : "1400",
+  "thoiGianKetThuc" : "1407",
+  "moTa" : "Nhà Trần suy yếu. Hồ Quý Ly thâu tóm quyền lực, bức vua Thuận Tông phải dời kinh về Tây Đô (1397), ép Trần Thiếu Đế phải nhường ngôi (1400) rồi bức tử, lấy quốc hiệu là <i><b>Đại Ngu</b></i>.Hồ Quý Ly thực hiện nhiều cải cách táo bạo đi trước thời đại. Nhưng do mắc tội giết vua cùng tôn tộc và quan lại nhà Trần nên ông đã không tập hợp được lực lượng toàn dân để chống giặc Minh.<br> 1. Hồ Quý Ly (Thánh Nguyên, 1400-1401)<br> 2. Hồ Hán Thương (1401-1407)",
+  "hinhAnh" : [ ]
+}, {
+  "idThoiKy" : 16,
+  "tenThoiKy" : "Hậu Trần",
+  "thoiGianBatDau" : "1407",
+  "thoiGianKetThuc" : "1413",
+  "moTa" : "Trần Ngỗi là con thứ của Trần Nghệ Tông, cuối thời Hồ đã khởi binh khôi phục nhà Trần. Đến đời vua Trùng Quang Đế do quân ít nên không chống nổi giặc Minh.<br> 1. Giản Định Đế (Trần Ngỗi, 1407-1409)<br> 2. Trùng Quang Đế (Trần Quý Khoáng, 1409-1414)",
+  "hinhAnh" : [ ]
+}, {
+  "idThoiKy" : 17,
+  "tenThoiKy" : "Thời kỳ thuộc Minh",
+  "thoiGianBatDau" : "1414",
+  "thoiGianKetThuc" : "1427",
+  "moTa" : "Quân Minh chiếm nước ta, cai trị nhân dân ta vô cùng hà khắc. Ngày 7/2/1418, Lê Lợi phất cờ khởi nghĩa ở Lam Sơn kéo dài suốt 10 năm và giành thắng lợi.",
+  "hinhAnh" : [ ]
+}, {
+  "idThoiKy" : 18,
+  "tenThoiKy" : "Triều Lê Sơ",
+  "thoiGianBatDau" : "1428",
+  "thoiGianKetThuc" : "1527",
+  "moTa" : "Ngày 15/4 Mậu Thân - 1428, Lê Lợi chính thức lên ngôi Vua, đặt tên nước là <i><b>Đại Việt</b></i>, đóng đô ở Đông Đô (Hà Nội). <br> 1. Lê Thái Tổ (Lê Lợi, 1428-1433)<br> 2. Lê Thái Tông (Nguyên Long, 1433-1442)<br> 3. Lê Nhân Tông (Bang Cơ, 1442-1459)<br> 4. Lê Thánh Tông (Tư Thành,1460-1497)<br> 5. Lê Hiến Tông (Lê Tăng,1498-1504)<br> 6. Lê Túc Tông (Lê Thuần, 6/6/1504-7/12/1504)<br> 7. Lê Uy Mục (Lê Tuấn,1505-1509<br> 8. Lê Tương Dực (Lê Oanh, 1509-1516)<br> 9. Lê Chiêu Tông (Lê Ý, 1516-1522)<br> 10. Lê Cung Hoàng (Lê Xuân, 1522-1527)",
+  "hinhAnh" : [ ]
+}, {
+  "idThoiKy" : 19,
+  "tenThoiKy" : "Bắc Triều - Nam Triều",
+  "thoiGianBatDau" : "1527",
+  "thoiGianKetThuc" : "1592",
+  "moTa" : "Trải qua 3 đời vua Lê, Mạc Đăng Dung được phong Thái sư Nhân quốc công rồi đến An hưng vương. Lợi dụng lúc vua Lê Cung Hoàng ươn hèn, Mạc Đăng Dung đem quân về kinh đô ép vua nhường ngôi, lập nên triều Mạc ở miền Bắc gọi là <b>Bắc Triều</b>.<br> <br> Nguyễn Kim giúp vua Lê Trang Tông chiếm được Nghệ An lập nên <b>Nam Triều</b>. Nguyễn Kim bị đánh thuốc độc chết (1545). Con rể là Trịnh Kiểm nắm giữ binh quyền, ngấm ngầm ám hại các em vợ. Nguyễn Hoàng là con Nguyễn Kim xin vào trấn thủ Thuận Hóa nên thoát chết và đã gây dựng giang sơn riêng của nhà Nguyễn ở Đàng Trong. <br><br> <b>Nam Triều</b> giao tranh với <b>Bắc Triều</b> của nhà Mạc gần 50 năm (1543-1592). Trịnh Tùng đánh bại được nhà Mạc (1592) rồi đón vua Lê Thế Tông vào Thăng Long (1595), mở đầu thời kỳ <b>\"Vua Lê, Chúa Trịnh\"</b>. Mọi việc trong triều do chúa quyết, vua chỉ nghe theo. <br> <br> <strong>Bắc Triều</strong><br> 1. Mạc Đăng Dung (1527-1529)<br> 2. Mạc Đăng Doanh (1530-1540)<br> 3. Mạc Phúc Hải (1541-1546) <br> 4. Mạc Phúc Nguyên (1546-1561)<br> 5. Mạc Mậu Hợp (1562-1592)<br> 6. Giai đoạn rút lên Cao bằng (1592-1677) <br> <br> <strong>Nam Triều</strong><br> <span class=\"mytext green\"><i>Nhà Lê Trung Hưng (1533-1788)</i></span><br> 1. Lê Trang Tông (1533-1548)<br> 2. Lê Trung Tông (1548-1556)<br> 3. Lê Anh Tông (1556-1573)<br> 4. Lê Thế Tông (1573-1599) <br> <span class=\"mytext green\"><i>Chúa Trịnh (1545-1788)</i></span><br> 1. Thế tổ Minh khang Thái vương (Trịnh Kiểm, 1545-1570)<br> 2. Bình An Vương (Trịnh Tùng, 1570-1623) <br> <span class=\"mytext green\"><i>Chúa Nguyễn (1558-1777)</i></span><br> 1. Nguyễn Hoàng (Chúa Tiên, 1558-1613)",
+  "hinhAnh" : [ ]
+}, {
+  "idThoiKy" : 20,
+  "tenThoiKy" : "Thời Trịnh - Nguyễn phân tranh",
+  "thoiGianBatDau" : "1533",
+  "thoiGianKetThuc" : "1788",
+  "moTa" : "Cuộc chiến Trịnh (Đàng Ngoài) - Nguyễn (Đàng Trong) phân tranh mở đầu khi Trịnh Tráng đem quân đánh Nguyễn Phúc Nguyên (1627). Đến năm 1672 hai bên tạm ngừng chiến, lấy sông Gianh làm giới tuyến.<br> <span class=\"mytext green\"><i>Nhà Lê Trung Hưng (1533-1788)</i></span><br> 5. Lê Kính Tông (1600-1619)<br> 6. Lê Thần Tông (1619-1643 và 1649-1662)<br> 7. Lê Chân Tông (1643-1649)<br> 8. Lê Huyền Tông (1663-1671)<br> 9. Lê Gia Tông (1672-1675)<br> 10. Lê Hy Tông (1675-1705)<br> 11. Lê Dụ Tông (1705-1729)<br> 12. Lê Duy Phường (1729-1732)<br> 13. Lê Thuần Tông (1732-1735)<br> 14. Lê Ý Tông (1735-1740)<br> 15. Lê Hiển Tông (1740-1786)<br> 16. Lê Mẫn Đế (Chiêu Thống, 1787-1788)<br> <span class=\"mytext green\"><i>Các chúa Trịnh ở đàng ngoài (1545-1788)</i></span><br> 3. Thanh Đô Vương (Trịnh Tráng, 1623-1652)<br> 4. Tây Đô Vương (Trịnh Tạc, 1653-1682)<br> 5. Định Vương (Trịnh Căn, 1682-1709)<br> 6. An đô vương (Trịnh Cương, 1709-1729)<br> 7. Uy nam vương (Trịnh Giang, 1729-1740)<br> 8. Minh đô vương (Trịnh Doanh, 1740-1767)<br> 9. Tĩnh đô vương (Trịnh Sâm, 1767-1782)<br> 10. Điện Đô Vương (Trịnh Cán, 2 tháng trong năm 1782)<br> 11. Đoan Nam Vương (Trịnh Khải, 1782-1786)<br> 12. Án Đô Vương (Trịnh Bồng) (1787-1788)<br> <span class=\"mytext green\"><i>Chúa Nguyễn ở đàng trong (1558-1777)</i></span><br> 2. Nguyễn Phúc Nguyên (Chúa Sãi, 1613-1635)<br> 3. Chúa Nguyễn Phúc Lan (chúa Thượng, 1635-1648)<br> 4. Nguyễn Phúc Tần (chúa Hiền, 1648-1687)<br> 5. Nguyễn Phúc Thái (chúa Nghĩa, 1687-1691)<br> 6. Nguyễn Phúc Chu (chúa Quốc, 1691-1725)<br> 7. Nguyễn Phúc Thụ (Ninh Vương, 1725-1738)<br> 8. Nguyễn Phúc Khoát (Võ Vương, 1738-1765)<br> 9. Nguyễn Phúc Thuần (Định Vương, 1765-1777)",
+  "hinhAnh" : [ ]
+}, {
+  "idThoiKy" : 21,
+  "tenThoiKy" : "Nhà Tây Sơn",
+  "thoiGianBatDau" : "1778",
+  "thoiGianKetThuc" : "1802",
+  "moTa" : "Năm 1771 anh em Tây Sơn phất cờ khởi nghĩa đến năm 1778 thì diệt được chúa Nguyễn ở Đàng Trong, chỉ có Nguyễn Ánh chạy thoát. Nguyễn Nhạc lên ngôi Hoàng đế lập nên Triều đại nhà Tây Sơn, đặt niên hiệu là Thái Đức.<br> 1. Thái Đức Hoàng Đế (1778-1793)<br> 2. Hoàng đế Quang Trung (1788-1792)<br> 3. Hoàng đế Cảnh Thịnh (1793-1802)",
+  "hinhAnh" : [ ]
+}, {
+  "idThoiKy" : 22,
+  "tenThoiKy" : "Nhà Nguyễn thời kỳ độc lập",
+  "thoiGianBatDau" : "1802",
+  "thoiGianKetThuc" : "1883",
+  "moTa" : "Năm 1802, Nguyễn Ánh diệt xong nhà Tây Sơn đang suy yếu, lên ngôi hoàng đế, niên hiệu là Gia Long đóng đô tại thành Phú Xuân, đặt quốc hiệu là <b><i>Việt Nam</i></b>. Năm 1820 vua Minh Mạng đổi quốc hiệu thành <b><i>Đại Nam</i></b><br> 1. Gia Long (Nguyễn Phúc Ánh, 1802-1820)<br> 2. Minh Mạng (Nguyễn Phúc Đảm, 1820-1840)<br> 3. Thiệu Trị (Miên Tông, 1841-1847)<br> 4. Tự Đức (Hồng Nhiệm, 1847-1883)<br>",
+  "hinhAnh" : [ ]
+}, {
+  "idThoiKy" : 23,
+  "tenThoiKy" : "Thời kì Pháp đô hộ",
+  "thoiGianBatDau" : "1883",
+  "thoiGianKetThuc" : "1945",
+  "moTa" : "Triều đình Huế đời vua Tự Đức ký hòa ước Quý Mùi (1883), rồi hòa ước Pa-tơ-nốt (1885), đất nước ta bị chia làm 3 kỳ (Bắc kỳ, Trung kỳ, Nam kỳ) chịu sự bảo hộ của đế quốc Pháp.<br> 1. Dục Đức (Ưng Chân, 1883, làm vua 3 ngày)<br> 2. Hiệp Hoà (Hồng Dật, 6/1883-11/1883, làm vua được 6 tháng)<br> 3. Kiến Phúc (Ưng Đăng, 1883-1884)<br> 4. Hàm Nghi (Ưng Lịch, 1884-1885)<br> 5. Đồng Khánh (Ưng Biện, 1885-1888)<br> 6. Thành Thái (Bửu Lân, 1889-1907)<br> 7. Duy Tân (Vĩnh San, 1907-1916)<br> 8. Khải Định (Bửu Đảo, 1916-1925)<br> 9. Bảo Đại (Vĩnh Thụy, 1926-1945)",
+  "hinhAnh" : [ ]
+}, {
+  "idThoiKy" : 24,
+  "tenThoiKy" : "Nước Việt Nam mới",
+  "thoiGianBatDau" : "1945 ",
+  "thoiGianKetThuc" : " đến nay",
+  "moTa" : "Dưới sự lãnh đạo của lãnh tụ Nguyễn Ái Quốc, dân tộc ta đã khởi nghĩa làm cuộc Cách mạng tháng Tám (19-8-1945) thành công, đánh đổ đế quốc Pháp và phát xít Nhật. Ngày 2/9/1945, Chủ tịch Hồ Chí Minh đọc \"Tuyên ngôn độc lập\" tại Quảng trường Ba Đình lập nên nước <i><b>Việt Nam Dân Chủ Cộng Hòa</b></i> với thủ đô là Hà Nội.",
+  "hinhAnh" : [ ]
+} ]
